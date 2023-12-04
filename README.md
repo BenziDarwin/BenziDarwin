@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/benzidarwin/">
   <img align="left" alt="Benjamin's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@benzidarwin">
+<a href="https://medium.com/@BenziDarwin">
   <img align="left" alt="Benjamin's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
