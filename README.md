@@ -16,9 +16,9 @@
 <div>
   <p>Hello! I'm a software engineer passionate about Rust, blockchain, game development, and the immersive world of virtual reality (VR).</p>
 
-  <p>My main focus is systems programming with Rust — I enjoy building efficient, reliable software. I'm also exploring blockchain technologies, developing decentralized applications, and working on ways to make Web3 more accessible and secure.</p>
+  <p>My main focus is systems programming with Rust. I enjoy building efficient, reliable software. I'm also exploring blockchain technologies, developing decentralized applications, and working on ways to make Web3 more accessible and secure.</p>
 
-  <p>In addition, I’m actively building projects in game development and VR, combining creativity and technical skill to deliver meaningful interactive experiences. If you're working on something innovative or looking to collaborate on Rust, blockchain, games, or VR — feel free to reach out!</p>
+  <p>In addition, I’m actively building projects in game development and VR, combining creativity and technical skill to deliver meaningful interactive experiences. If you're working on something innovative or looking to collaborate on Rust, blockchain, games, or VR, feel free to reach out!</p>
 </div>
 
 <br />
